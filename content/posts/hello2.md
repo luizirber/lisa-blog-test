@@ -1,10 +1,9 @@
-Title: Hello world number one
+Title: Second hello world post
 Date: 2018-05-13 22:00
 Category: Python
 Tags: pelican
 Author: luizirber
-Summary: Second hello world post - draft
-Status: draft
+Summary: Second hello world post
 
 Hello world! This is our first post with *Pelican* and **Markdown**.
 
