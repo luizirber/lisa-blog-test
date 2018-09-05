@@ -5,6 +5,7 @@ branches:
   only:
   - master
 install:
+- pip install pipenv
 - pipenv install
 script:
 - pipenv run pelican
