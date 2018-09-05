@@ -12,6 +12,7 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
+  local-dir: output
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   on:
     branch: master
